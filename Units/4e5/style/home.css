@@ -1,0 +1,44 @@
+body {
+    background-color: lightblue;
+}
+
+header {
+    text-align: center;
+    background-color: #42B7E6;
+    width: 100%;
+    overflow: hidden;
+}
+
+nav {
+    text-align: center;
+    background-color: #7CDBE6;
+    width: 100%;
+    overflow: hidden;
+}
+
+section {
+    text-align: center;
+    background-color: #7CDBE6;
+    /*background-color:#A4E0E6;*/
+    width: 100%;
+    overflow: hidden;
+    
+}
+
+article {
+    background-color: yellow;
+}
+
+aside {
+    background-color: green;
+}
+
+footer {
+    background-color: greenyellow;
+}
+
+#topicos {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
