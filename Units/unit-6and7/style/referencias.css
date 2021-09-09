@@ -1,0 +1,71 @@
+body {
+    background-color: lightblue;
+}
+
+header {
+    text-align: center;
+    background-color: #42B7E6;
+    position: absolute;
+    top: 25px;
+    left: 25%;
+    width: 50%;
+    height: 150px;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+nav {
+}
+
+section {
+    text-align: center;
+    background-color: #7CDBE6;
+    width: 70%;
+    position: absolute;
+    top: 230px;
+    left: 15%;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+article {
+    background-color: yellow;
+}
+
+aside {
+    background-color: green;
+}
+
+footer {
+    background-color: greenyellow;
+}
+
+img {
+    border-radius: 20px;
+}
+
+@font-face {
+    font-family: Montserrat-Medium;
+    src: url(../font/Montserrat-Medium.ttf);
+}
+
+@font-face {
+    font-family: Montserrat-Light;
+    src: url(../font/Montserrat-Light.ttf);
+}
+
+#titulo {
+    font-family: Montserrat-Medium;
+}
+
+h4 {
+    font-family: Montserrat-Medium;
+}
+
+p {
+    font-family: Montserrat-Light;
+}
+
+a {
+    font-family: Montserrat-Light;
+}
